@@ -23,10 +23,5 @@ An app that allows users to scrape news, images, and many useful information fro
 © 2019 All Rights Reserved
 ## 
 
-![concert](./public/Snipaste.png)
+![concert](./public/css/ignscraper.png)
 
-Click 💡 to switch Light Theme or Dark Theme
-
-![concert](./public/Snipaste.png)
-
-![concert](./public/Snipaste.png)
