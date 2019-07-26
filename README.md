@@ -23,10 +23,10 @@ An app that allows users to scrape news, images, and many useful information fro
 © 2019 All Rights Reserved
 ## 
 
-![concert](./public/Snipaste_2019-05-01_17-06-43.png)
+![concert](./public/Snipaste.png)
 
 Click 💡 to switch Light Theme or Dark Theme
 
-![concert](./public/Snipaste_2019-05-01_17-06-02.png)
+![concert](./public/Snipaste.png)
 
-![concert](./public/Snipaste_2019-05-01_17-06-27.png)
+![concert](./public/Snipaste.png)
